@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello kind stranger!
+---
+It appears you have stumbled across my github profile. Im not that active here so dont expect much lol
 
-<!--
-**skrillexidk/skrillexidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+---
+Male - 15 - He/Him
+idk, just your average geometry dash addict and programmer
 
-Here are some ideas to get you started:
+## What im working on
+---
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GDServerAPI.py](https://github.com/skrillexidk/GDServerAPI.py) - A python module for interacting with the Geometry Dash servers as security on them increase
