@@ -13,3 +13,6 @@ idk just your average geometry dash addict and programmer
 Currently working on:
 
 [GDServerAPI.py](https://github.com/skrillexidk/GDServerAPI.py) - A python module for interacting with the Geometry Dash servers as security on them increase
+
+## Contact
+You can message me on Discord at skrillexidk or Skrillex#4821
