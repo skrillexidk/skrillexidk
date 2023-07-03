@@ -16,6 +16,8 @@ Currently working on:
 
 [skrillexidk.github.io](https://skrillexidk.github.io) - My website for posting projects and stuff
 
+[ProxyScraper](https://github.com/skrillexidk/ProxyScraper) - Python module for scraping and checking proxies to be used in your project
+
 ## Contact
 ---
 You can message me on Discord at skrillexidk or Skrillex#4821
