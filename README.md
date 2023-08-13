@@ -12,11 +12,7 @@ idk just your average geometry dash addict and programmer
 ---
 Currently working on:
 
-[GDServerAPI](https://github.com/skrillexidk/GDServerAPI.py) - A python module for interacting with the Geometry Dash servers as security on them increase
-
-[skrillexidk.github.io](https://skrillexidk.github.io) - My website for posting projects and stuff
-
-[ProxyScraper](https://github.com/skrillexidk/ProxyScraper) - Python module for scraping and checking proxies to be used in your project
+nothing atm lmao
 
 ## Contact
 ---
