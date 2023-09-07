@@ -4,7 +4,7 @@ It appears you have stumbled across my github profile. Im not that active here s
 
 ## About Me
 ---
-Male - 15 - He/Him
+Male - 16 - He/Him
 
 idk just your average geometry dash addict and programmer
 
